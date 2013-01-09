@@ -1,0 +1,7 @@
+symfony/cache
+symfony/log
+installer/log.txt
+lib/confs/Conf.php
+symfony/config/databases.yml
+perms.sh
+
